@@ -170,6 +170,9 @@ Se generó una figura mediante vértices definidos matemáticamente y conectados
 Concepto aplicado:
 Representación geométrica mediante coordenadas cartesianas.
 
+<img width="812" height="457" alt="image" src="https://github.com/user-attachments/assets/5a166994-e644-4c77-94eb-1e5f05a40308" />
+
+
 #### Construcción de la “Flor de la Vida”
 
 Se trazaron múltiples circunferencias con radio constante y centros equidistantes.
